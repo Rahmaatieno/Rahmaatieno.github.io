@@ -426,7 +426,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background-color: #fcf2f7;
+  background-color: #d485ad;
   min-height: 40px;
 }
 
@@ -521,7 +521,7 @@ section {
   font-weight: 600;
   display: block;
   margin-top: 20px;
-  color: #437099;
+  color: #2077c9;
   font-size: 15px;
   font-family: "Poppins", sans-serif;
   transition: ease-in-out 0.3s;
@@ -532,7 +532,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url("../img/Screenshot\ from\ 2022-08-02\ 12-04-58.png.") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
